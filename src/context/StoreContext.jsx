@@ -11,7 +11,7 @@ const StoreContextProvider = (props) => {
 
     // const url = "http://localhost:4000";
 
-    const url = "https://food-backend-new-tswh.onrender.com/";
+    const url = "https://food-backend-new-tswh.onrender.com";
 
 
     const addToCart = (itemId) => {

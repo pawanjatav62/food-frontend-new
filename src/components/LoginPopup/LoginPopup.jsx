@@ -33,7 +33,7 @@ const LoginPopup = ({ setShowLogin }) => {
 
   // let url = "http://localhost:4000";
   
-   let url = 'https://food-backend-new-tswh.onrender.com/';
+   let url = 'https://food-backend-new-tswh.onrender.com';
 
   let newUrl =
     currState === "Login"
